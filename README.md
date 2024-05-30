@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <a href="https://closer-classroom.herokuapp.com/">
+  <a href="https://closer-classroom.com/">
     <img height="150" width="320" src="https://firebasestorage.googleapis.com/v0/b/smart-closer.appspot.com/o/1620185282927-closer.png?alt=media">
   </a>
 </p>
@@ -61,14 +61,6 @@ interactive live online teaching sessions
 - Mongo Db 
 
 
-
-## :pencil: Credit
-
-Created by <a href="https://firebasestorage.googleapis.com/v0/b/smart-closer.appspot.com/o/1620185280095-logo%20nolimit.png?alt=media"><img height="17" width="25" src="https://firebasestorage.googleapis.com/v0/b/smart-closer.appspot.com/o/1620185280095-logo%20nolimit.png?alt=media" /> NoLimits</a> Team and an amazing community of [contributors][20].
-
-Blazing deployments by <a href="https://www.heroku.com"><img height="12" width="14" src="https://atomrace.com/blog/wp-content/uploads/2016/02/heroku-logo-trans.png" /> Heroku</a>.
-
-[20]: https://github.com/louayyahyaoui/Smart-Virtual-Classroom/graphs/contributors
 
 ## :man_astronaut: Show your support
 
