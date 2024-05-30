@@ -16,10 +16,6 @@
   
 </p>
 
-## :computer: Try it out
-
-You can try out CLOSER at
-[`https://closer-classroom.herokuapp.com/`]https://closer-classroom.herokuapp.com/)
 
 ## :mega: About Closer
 
